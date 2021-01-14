@@ -4,7 +4,7 @@
 #@File    : eg02
 #@Software: PyCharm
 #@Author  : 某不知名代码搬运工
-#@Email   : mnr6236784@163.com
+#@Email   : robot1483693261@163.com
 #@Date    : 2020/6/23 13:40
 #@Desc    : 第二部分字符串操作
 ================================'''
