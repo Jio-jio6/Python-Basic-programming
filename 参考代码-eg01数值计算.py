@@ -4,7 +4,7 @@
 #@File    : eg01
 #@Software: PyCharm
 #@Author  : 某不知名代码搬运工
-#@Email   : mnr6236784@163.com
+#@Email   : robot1483693261@163.com
 #@Date    : 2020/6/22 13:35
 #@Desc    : 第一部分简单数值计算
 ================================'''
